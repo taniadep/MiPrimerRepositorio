@@ -3,4 +3,4 @@
 Mis intereses principales son el **Frontend** con JavaScript y el diseño de interfaces.  
 *Este archivo es parte de mi primera práctica de Git y GitHub para el Proyecto Intermodular.*
 
-![GitHub](/img/tac.png "GitHub") 
+![GitHub](/img/github.png "GitHub") 
